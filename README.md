@@ -8,7 +8,17 @@ In this project we are challenged to build a machine learning model to predict t
 ---
 
 ### :running: **One-liner**
-This dashboard shows an in-depth analysis of a provided dataset of diamonds in order to stablish a good decision making process for buying one.
+This project includes the following sections:
+
+1- Technologies and data imports
+2- Exploratory Analysis
+3- Feature Engineering
+4- Preproccesing 
+5- Train/test split
+6- Build the model
+7- Training
+8- Validation & Metrics
+9- Submissions
 
 ### :computer: **Technology stack**
 Python, Sci-kit Learn, Pandas, Plotly, Seaborn, Matplotlib.
